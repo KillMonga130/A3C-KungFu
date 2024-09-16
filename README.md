@@ -58,7 +58,7 @@ The model is trained using multiple environments simultaneously, using the follo
 - Number of environments: `10`
 
 To start training, initialize the `Agent` class and run the training loop:
-```python
+
 agent = Agent(number_actions)
 # Training loop here
 
